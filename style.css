@@ -1,0 +1,11 @@
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+    background:url("game_console.png");
+    background-size:cover;
+    padding:25px;
+    background-position:center;
+}
